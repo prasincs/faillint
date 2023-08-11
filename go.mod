@@ -1,8 +1,8 @@
 module github.com/fatih/faillint
 
-go 1.16
+go 1.20
 
 require (
-	dmitri.shuralyov.com/go/generated v0.0.0-20170818220700-b1254a446363
+	dmitri.shuralyov.com/go/generated v0.0.0-20230423232055-e1de01541153
 	golang.org/x/tools v0.12.0
 )
